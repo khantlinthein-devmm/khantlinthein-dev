@@ -21,7 +21,7 @@ $ connect --me
 ├── GitHub: github.com/khantlinthein-devmm
 ├── LinkedIn: linkedin.com/in/khant-linn-thein-5b3658351/
 ├── Email: khantlinthein@outlook.com
-└── Website: yourportfolio.com
+└── Website: https://khantlinthein-devmm.netlify.app/
 
 $ echo "Let's build something amazing!"
 Let's build something amazing!`;
